@@ -1,0 +1,94 @@
+{
+    "1.mp4": [
+    {
+    "start_frame": "29",
+    "end_frame": "34",
+    "action_type": "click",
+    "down_coordinate": [6.576576576576576, 13.833333333333334],
+    "up_coordinate": [6.576576576576576, 13.833333333333334],
+    "type_word": null
+    },
+    {
+    "start_frame": "84",
+    "end_frame": "158",
+    "action_type": "type",
+    "down_coordinate": null,
+    "up_coordinate": null,
+    "type_word": "pig"
+    },
+    {
+    "start_frame": "218",
+    "end_frame": "221",
+    "action_type": "click",
+    "down_coordinate": [83.33333333333333, 20.333333333333332],
+    "up_coordinate": [83.33333333333333, 20.333333333333332],
+    "type_word": null
+    },
+    {
+    "start_frame": "338",
+    "end_frame": "341",
+    "action_type": "click",
+    "down_coordinate": [6.576576576576576, 19.333333333333332],
+    "up_coordinate": [6.576576576576576, 19.333333333333332],
+    "type_word": null
+    },
+    {
+    "start_frame": "400",
+    "end_frame": "404",
+    "action_type": "click",
+    "down_coordinate": [75.04504504504504, 7.833333333333334],
+    "up_coordinate": [75.04504504504504, 7.833333333333334],
+    "type_word": null
+    }
+    ],
+    "2.mp4": [
+    {
+    "start_frame": "34",
+    "end_frame": "37",
+    "action_type": "click",
+    "down_coordinate": [5.495495495495495, 13.833333333333334],
+    "up_coordinate": [5.495495495495495, 13.833333333333334],
+    "type_word": null
+    },
+    {
+    "start_frame": "70",
+    "end_frame": "184",
+    "action_type": "type",
+    "down_coordinate": null,
+    "up_coordinate": null,
+    "type_word": "hello"
+    },
+    {
+    "start_frame": "224",
+    "end_frame": "226",
+    "action_type": "click",
+    "down_coordinate": [84.77477477477477, 20.666666666666668],
+    "up_coordinate": [84.77477477477477, 20.666666666666668],
+    "type_word": null
+    },
+    {
+    "start_frame": "367",
+    "end_frame": "370",
+    "action_type": "click",
+    "down_coordinate": [87.29729729729729, 60.83333333333333],
+    "up_coordinate": [87.29729729729729, 60.83333333333333],
+    "type_word": null
+    },
+    {
+    "start_frame": "430",
+    "end_frame": "432",
+    "action_type": "click",
+    "down_coordinate": [37.567567567567565, 53.666666666666664],
+    "up_coordinate": [37.567567567567565, 53.666666666666664],
+    "type_word": null
+    },
+    {
+    "start_frame": "537",
+    "end_frame": "540",
+    "action_type": "click",
+    "down_coordinate": [37.92792792792793, 61.16666666666666],
+    "up_coordinate": [37.92792792792793, 61.16666666666666],
+    "type_word": null
+    }
+    ]
+    }

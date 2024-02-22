@@ -1,0 +1,492 @@
+[
+    {
+        "id": 2,
+        "annotations": [
+            {
+                "id": 1,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "framesCount": 442,
+                            "duration": 17.693606,
+                            "sequence": [
+                                {
+                                    "frame": 29,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 6.576576576576576,
+                                    "y": 13.833333333333334,
+                                    "width": 17.2972972972973,
+                                    "height": 5.166666666666666,
+                                    "time": 1.16
+                                },
+                                {
+                                    "x": 6.576576576576576,
+                                    "y": 13.833333333333334,
+                                    "width": 17.2972972972973,
+                                    "height": 5.166666666666666,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 34,
+                                    "time": 1.36
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "l4S1CJz2M8",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 442,
+                            "duration": 17.693606,
+                            "sequence": [
+                                {
+                                    "frame": 84,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 3.3333333333333335,
+                                    "y": 66.66666666666667,
+                                    "width": 92.25225225225225,
+                                    "height": 17.666666666666668,
+                                    "time": 3.36
+                                },
+                                {
+                                    "x": 3.3333333333333335,
+                                    "y": 66.66666666666667,
+                                    "width": 92.25225225225225,
+                                    "height": 17.666666666666668,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 158,
+                                    "time": 6.32
+                                }
+                            ],
+                            "labels": [
+                                "type"
+                            ]
+                        },
+                        "id": "xSyFzFt6ke",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 442,
+                            "duration": 17.693606,
+                            "sequence": [
+                                {
+                                    "frame": 218,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 83.33333333333333,
+                                    "y": 20.333333333333332,
+                                    "width": 8.288288288288289,
+                                    "height": 3.500000000000001,
+                                    "time": 8.72
+                                },
+                                {
+                                    "x": 83.33333333333333,
+                                    "y": 20.333333333333332,
+                                    "width": 8.288288288288289,
+                                    "height": 3.500000000000001,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 221,
+                                    "time": 8.84
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "gq358Zs31d",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 442,
+                            "duration": 17.693606,
+                            "sequence": [
+                                {
+                                    "frame": 338,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 6.576576576576576,
+                                    "y": 19.333333333333332,
+                                    "width": 20.18018018018018,
+                                    "height": 5.166666666666668,
+                                    "time": 13.52
+                                },
+                                {
+                                    "x": 6.576576576576576,
+                                    "y": 19.333333333333332,
+                                    "width": 20.18018018018018,
+                                    "height": 5.166666666666668,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 341,
+                                    "time": 13.64
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "oHHIVmMh7_",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 442,
+                            "duration": 17.693606,
+                            "sequence": [
+                                {
+                                    "frame": 400,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 75.04504504504504,
+                                    "y": 7.833333333333334,
+                                    "width": 5.765765765765765,
+                                    "height": 2.3333333333333326,
+                                    "time": 16
+                                },
+                                {
+                                    "x": 75.04504504504504,
+                                    "y": 7.833333333333334,
+                                    "width": 5.765765765765765,
+                                    "height": 2.3333333333333326,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 404,
+                                    "time": 16.16
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "otfF7pZiI1",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-02-22T06:39:00.403515Z",
+                "updated_at": "2024-02-22T06:39:00.403515Z",
+                "draft_created_at": "2024-02-22T06:33:11.252525Z",
+                "lead_time": 389.914,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d4632804-c91d-456b-980c-506b2b192831",
+                "import_id": null,
+                "last_action": null,
+                "task": 2,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "4781ecb6-video1.mp4",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "video": "\/data\/upload\/1\/4781ecb6-video1.mp4"
+        },
+        "meta": {},
+        "created_at": "2024-02-22T06:32:23.939965Z",
+        "updated_at": "2024-02-22T06:39:00.438420Z",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 3,
+        "annotations": [
+            {
+                "id": 2,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "framesCount": 616,
+                            "duration": 24.659592,
+                            "sequence": [
+                                {
+                                    "frame": 34,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 5.495495495495495,
+                                    "y": 13.833333333333334,
+                                    "width": 22.342342342342345,
+                                    "height": 5,
+                                    "time": 1.36
+                                },
+                                {
+                                    "x": 5.495495495495495,
+                                    "y": 13.833333333333334,
+                                    "width": 22.342342342342345,
+                                    "height": 5,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 37,
+                                    "time": 1.48
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "WVL3VducUr",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 616,
+                            "duration": 24.659592,
+                            "sequence": [
+                                {
+                                    "frame": 70,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 2.2522522522522523,
+                                    "y": 67,
+                                    "width": 96.57657657657658,
+                                    "height": 18.83333333333334,
+                                    "time": 2.8
+                                },
+                                {
+                                    "x": 2.2522522522522523,
+                                    "y": 67,
+                                    "width": 96.57657657657658,
+                                    "height": 18.83333333333334,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 184,
+                                    "time": 7.36
+                                }
+                            ],
+                            "labels": [
+                                "type"
+                            ]
+                        },
+                        "id": "V3954bGvmY",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 616,
+                            "duration": 24.659592,
+                            "sequence": [
+                                {
+                                    "frame": 224,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 84.77477477477477,
+                                    "y": 20.666666666666668,
+                                    "width": 5.405405405405405,
+                                    "height": 2.666666666666666,
+                                    "time": 8.96
+                                },
+                                {
+                                    "x": 84.77477477477477,
+                                    "y": 20.666666666666668,
+                                    "width": 5.405405405405405,
+                                    "height": 2.666666666666666,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 226,
+                                    "time": 9.04
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "0emHPBkFel",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 616,
+                            "duration": 24.659592,
+                            "sequence": [
+                                {
+                                    "frame": 367,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 87.29729729729729,
+                                    "y": 60.83333333333333,
+                                    "width": 7.20720720720722,
+                                    "height": 2.166666666666668,
+                                    "time": 14.68
+                                },
+                                {
+                                    "x": 87.29729729729729,
+                                    "y": 60.83333333333333,
+                                    "width": 7.20720720720722,
+                                    "height": 2.166666666666668,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 370,
+                                    "time": 14.8
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "MLmJJpdV9N",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 616,
+                            "duration": 24.659592,
+                            "sequence": [
+                                {
+                                    "frame": 430,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 37.567567567567565,
+                                    "y": 53.666666666666664,
+                                    "width": 47.20720720720721,
+                                    "height": 3.000000000000007,
+                                    "time": 17.2
+                                },
+                                {
+                                    "x": 37.567567567567565,
+                                    "y": 53.666666666666664,
+                                    "width": 47.20720720720721,
+                                    "height": 3.000000000000007,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 432,
+                                    "time": 17.28
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "efs8rJuFnQ",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "framesCount": 616,
+                            "duration": 24.659592,
+                            "sequence": [
+                                {
+                                    "frame": 537,
+                                    "enabled": true,
+                                    "rotation": 0,
+                                    "x": 37.92792792792793,
+                                    "y": 61.16666666666666,
+                                    "width": 23.423423423423422,
+                                    "height": 1.3333333333333375,
+                                    "time": 21.48
+                                },
+                                {
+                                    "x": 37.92792792792793,
+                                    "y": 61.16666666666666,
+                                    "width": 23.423423423423422,
+                                    "height": 1.3333333333333375,
+                                    "rotation": 0,
+                                    "enabled": false,
+                                    "frame": 540,
+                                    "time": 21.6
+                                }
+                            ],
+                            "labels": [
+                                "click"
+                            ]
+                        },
+                        "id": "xLJ8FSadXc",
+                        "from_name": "box",
+                        "to_name": "video",
+                        "type": "videorectangle",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-02-22T06:47:05.139181Z",
+                "updated_at": "2024-02-22T06:47:05.139181Z",
+                "draft_created_at": "2024-02-22T06:40:52.652700Z",
+                "lead_time": 432.19,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f0075659-edfd-464a-81aa-7af2542d414b",
+                "import_id": null,
+                "last_action": null,
+                "task": 3,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "8fdcf9a1-video2.mp4",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "video": "\/data\/upload\/1\/8fdcf9a1-video2.mp4"
+        },
+        "meta": {},
+        "created_at": "2024-02-22T06:39:48.849882Z",
+        "updated_at": "2024-02-22T06:47:05.173091Z",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
